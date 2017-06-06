@@ -8,9 +8,13 @@ What value do you think it offers?
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+	To use git diff --staged to check the difference of staged area add recent commit to find the changed logical.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+	I have been confused by the branch, I don't know what situation is best for branch, but I think when change a little aspect,
+    get another similiar version and try a new feature experimental should use branch. Branch can help i return to the official version, 
+    if just use master, when you introduce something wrong, the all versions could be messy.
 
 How do the diagrams help you visualize the branch structure?
 
