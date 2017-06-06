@@ -17,6 +17,7 @@ organized? How would branches help?
     if just use master, when you introduce something wrong, the all versions could be messy.
 
 How do the diagrams help you visualize the branch structure?
+	 I can use the diagrams to see the the commit is belong to master branch or other branch.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
