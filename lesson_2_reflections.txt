@@ -21,6 +21,7 @@ How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+	Two branch tips are combined to one tip, and two branchs's commits are combined to linear order by time. Because we want to reach every commit. 
 
 What are the pros and cons of Git automatic merging vs. always doing merges
 manually?
