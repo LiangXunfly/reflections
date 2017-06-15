@@ -20,7 +20,9 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    With the copy, without internet access, user can also do operations util with internet access to fetch and merge.
+    use the copy, users can cooperation more convenient.
+
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
